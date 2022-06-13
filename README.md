@@ -21,3 +21,5 @@ To complete the assignment, please do the following:
 URLもどうぞ！
 
 # List of Streamer 
+1：高橋李依　　URL：https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E6%9D%8E%E4%BE%9D
+　
