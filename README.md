@@ -38,7 +38,7 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of your favorite Touhou character
-- 
+- フランドール・スカーレット （she has a nick name call scrambled eggs with tomatoes because her color
 - 
 - 
 - 
