@@ -10,3 +10,4 @@
 - [A Gentle Guide on Pulling Request](https://boards.4channel.org/v/thread/601347457/the-absolute-state-of-epic-games)
 - [More Cats](https://giphy.com/explore/cat)
 - ⏬⏬ PLEASE WRITE BELOW ⏬⏬
+- [野獣先輩] (https://dic.pixiv.net/a/%E9%87%8E%E7%8D%A3%E5%85%88%E8%BC%A9)
