@@ -21,3 +21,8 @@ You can list any animation, or you can list multiple animations, not limited
 to Japanese animation, but also animation from other countries.
 
 # List of Anime.
+1：EVA  
+2：Puella Magi Madoka Magica  
+3：Kimetsu No Yaiba  
+4：Date A live  
+5：Gundam seed 
